@@ -1,0 +1,102 @@
+SYMBOL,NAME,Capitalization,High 52 Weeks,Low 52 Weeks,Sector,Index
+LIN,Linde PLC,215.462B,350.60,477.71,Basic Materials,Nasdaq 100
+AZN,AstraZeneca PLC,213.713B,60.47,76.56,Healthcare,Nasdaq 100
+BKR,Baker Hughes Co,33.199B,26.81,37.58,Energy,Nasdaq 100
+AVGO,Broadcom Inc,622.87B,601.29,"1,438.17",Technology,Nasdaq 100
+BIIB,Biogen Inc,28.808B,197.78,319.76,Healthcare,Nasdaq 100
+BKNG,Booking Holdings Inc,120.685B,"2,456.93","3,918.00",Consumer Cyclical,Nasdaq 100
+CDNS,Cadence Design Systems Inc,83.375B,194.01,327.36,Technology,Nasdaq 100
+ADBE,Adobe Inc.,212.392B,331.89,638.25,Technology,Nasdaq 100
+CHTR,Charter Communications Inc,37.613B,258.56,458.30,Communication Services,Nasdaq 100
+CPRT,Copart Inc,53.246B,38.35,58.58,Industrials,Nasdaq 100
+CSGP,CoStar Group Inc,36.896B,67.35,100.38,Real Estate,Nasdaq 100
+CRWD,CrowdStrike Holdings Inc,74.75B,115.67,365.00,Technology,Nasdaq 100
+CTAS,Cintas Corp,67.819B,438.59,704.84,Industrials,Nasdaq 100
+CSCO,Cisco Systems Inc,196.345B,45.56,58.19,Technology,Nasdaq 100
+CMCSA,Comcast Corp,156.372B,36.39,47.46,Communication Services,Nasdaq 100
+COST,Costco Wholesale Corp,324.339B,476.75,787.08,Consumer Defensive,Nasdaq 100
+CSX,CSX Corp,69.181B,29.03,40.12,Industrials,Nasdaq 100
+CTSH,Cognizant Technology Solutions Corp,34.481B,58.09,80.09,Technology,Nasdaq 100
+DDOG,Datadog Inc,42.317B,62.60,138.61,Technology,Nasdaq 100
+DXCM,Dexcom Inc,52.484B,74.75,142.00,Healthcare,Nasdaq 100
+FANG,Diamondback Energy Inc,36.799B,123.41,211.96,Energy,Nasdaq 100
+DLTR,Dollar Tree Inc,27.289B,102.77,161.10,Consumer Defensive,Nasdaq 100
+EA,Electronic Arts,34.191B,117.47,144.53,Communication Services,Nasdaq 100
+ON,ON Semiconductor Corp,28.645B,61.47,111.35,Technology,Nasdaq 100
+EXC,Exelon Corp,36.47B,33.35,43.71,Utilities,Nasdaq 100
+TTD,Trade Desk Inc,42.229B,59.36,94.00,Technology,Nasdaq 100
+FAST,Fastenal Co,40.334B,52.29,79.04,Industrials,Nasdaq 100
+GFS,GlobalFoundries Inc,27.317B,48.12,68.57,Technology,Nasdaq 100
+META,Meta Platforms Inc,1.305T,207.13,531.49,Communication Services,Nasdaq 100
+FI,Fiserv Inc,89.021B,109.12,159.99,Technology,Nasdaq 100
+FTNT,Fortinet Inc,50.703B,44.12,81.24,Technology,Nasdaq 100
+GILD,Gilead Sciences Inc,84.881B,67.62,87.87,Healthcare,Nasdaq 100
+GOOG,Alphabet Class C,1.969T,103.27,161.70,Communication Services,Nasdaq 100
+GOOGL,Alphabet Class A,1.969T,102.63,160.22,Communication Services,Nasdaq 100
+HON,Honeywell International Inc,127.736B,174.88,210.87,Industrials,Nasdaq 100
+ILMN,Illumina Inc,20.237B,89.00,232.23,Healthcare,Nasdaq 100
+INTC,Intel Corp,151.928B,26.86,51.28,Technology,Nasdaq 100
+INTU,Intuit Inc,173.898B,400.22,671.01,Technology,Nasdaq 100
+ISRG,Intuitive Surgical Inc,136.392B,254.85,403.76,Healthcare,Nasdaq 100
+MRVL,Marvell Technology Inc,60.759B,36.90,85.76,Technology,Nasdaq 100
+IDXX,IDEXX Laboratories Inc,41.344B,372.50,583.39,Healthcare,Nasdaq 100
+KDP,Keurig Dr Pepper Inc,40.875B,27.66,35.99,Consumer Defensive,Nasdaq 100
+KLAC,KLA Corp,92.065B,355.88,729.15,Technology,Nasdaq 100
+KHC,Kraft Heinz Co,43.69B,30.68,41.47,Consumer Defensive,Nasdaq 100
+LRCX,Lam Research Corp,125.471B,482.74,"1,007.39",Technology,Nasdaq 100
+LULU,Lululemon Athletica Inc,42.355B,326.93,516.39,Consumer Cyclical,Nasdaq 100
+MELI,MercadoLibre Inc,73.214B,"1,063.02","1,825.00",Consumer Cyclical,Nasdaq 100
+MAR,Marriott International Inc,72.37B,162.78,260.57,Consumer Cyclical,Nasdaq 100
+MCHP,Microchip Technology Inc,46.279B,68.75,94.30,Technology,Nasdaq 100
+MDLZ,Mondelez International Inc,89.707B,60.75,78.59,Consumer Defensive,Nasdaq 100
+MRNA,Moderna Inc,40.256B,62.55,156.75,Healthcare,Nasdaq 100
+MNST,Monster Beverage Corp,57.612B,47.13,61.23,Consumer Defensive,Nasdaq 100
+MSFT,Microsoft Corp,3.135T,275.37,430.82,Technology,Nasdaq 100
+MU,Micron Technology Inc,135.675B,58.03,130.54,Technology,Nasdaq 100
+NFLX,Netflix Inc,269.536B,315.62,639.00,Communication Services,Nasdaq 100
+NVDA,NVIDIA Corp,2.205T,262.25,974.00,Technology,Nasdaq 100
+NXPI,NXP Semiconductors NV,59.911B,155.31,264.26,Technology,Nasdaq 100
+ODFL,Old Dominion Freight Line Inc,48.118B,147.90,227.80,Industrials,Nasdaq 100
+ORLY,O’Reilly Automotive Inc,63.542B,860.10,"1,169.11",Consumer Cyclical,Nasdaq 100
+PCAR,Paccar Inc,61.917B,68.40,125.50,Industrials,Nasdaq 100
+PANW,Palo Alto Networks Inc,90.168B,176.30,380.84,Technology,Nasdaq 100
+PAYX,Paychex Inc,44.275B,104.09,129.70,Industrials,Nasdaq 100
+PDD,PDD Holdings Inc,153.452B,59.67,152.99,Consumer Cyclical,Nasdaq 100
+PYPL,PayPal Holdings Inc,67.99B,50.25,77.95,Financial Services,Nasdaq 100
+PEP,PepsiCo Inc.,231.055B,155.83,196.88,Consumer Defensive,Nasdaq 100
+QCOM,Qualcomm Inc,191.16B,101.47,177.59,Technology,Nasdaq 100
+REGN,Regeneron Pharmaceuticals Inc,99.302B,684.81,998.33,Healthcare,Nasdaq 100
+ROST,Ross Stores Inc,45.598B,99.00,151.12,Consumer Cyclical,Nasdaq 100
+SIRI,Sirius XM Holdings Inc,12.347B,3.2000,7.9500,Communication Services,Nasdaq 100
+SBUX,Starbucks Corp,96.148B,84.29,115.48,Consumer Cyclical,Nasdaq 100
+SNPS,Synopsys Inc,84.991B,360.37,629.38,Technology,Nasdaq 100
+TSLA,Tesla Inc,544.758B,152.37,299.29,Consumer Cyclical,Nasdaq 100
+TXN,Texas Instruments Inc,151.37B,139.48,188.12,Technology,Nasdaq 100
+TMUS,T-Mobile US Inc,189.959B,124.92,168.64,Communication Services,Nasdaq 100
+VRSK,Verisk Analytics Inc,31.764B,187.86,251.98,Industrials,Nasdaq 100
+VRTX,Vertex Pharmaceuticals Inc,102.492B,316.43,448.40,Healthcare,Nasdaq 100
+WBA,Walgreens Boots Alliance Inc,15.399B,17.70,36.14,Healthcare,Nasdaq 100
+WBD,Warner Bros Discovery Inc,20.347B,8.02,14.76,Communication Services,Nasdaq 100
+WDAY,Workday Inc,69.664B,174.25,311.28,Technology,Nasdaq 100
+XEL,Xcel Energy Inc,29.534B,46.79,71.32,Utilities,Nasdaq 100
+ZS,Zscaler Inc,27.186B,84.93,259.61,Technology,Nasdaq 100
+ADP,Automatic Data Processing Inc,100.171B,201.46,256.84,Industrials,Nasdaq 100
+ABNB,Airbnb Inc,101.657B,103.55,170.10,Consumer Cyclical,Nasdaq 100
+AMD,Advanced Micro Devices Inc,263.883B,81.02,227.30,Technology,Nasdaq 100
+CEG,Constellation Energy Corp,60.399B,74.17,198.83,Utilities,Nasdaq 100
+AMZN,Amazon.com Inc,1.936T,101.15,189.77,Consumer Cyclical,Nasdaq 100
+AMGN,Amgen Inc,143.24B,211.71,329.72,Healthcare,Nasdaq 100
+AEP,American Electric Power Company Inc,43.233B,69.38,94.73,Utilities,Nasdaq 100
+CDW,CDW Corp,,,,,Nasdaq 100
+CCEP,Coca-Cola Europacific Partners PLC,,,,,Nasdaq 100
+ADI,Analog Devices Inc,95.348B,154.99,204.20,Technology,Nasdaq 100
+MDB,MongoDB Inc,25.641B,212.52,509.62,Technology,Nasdaq 100
+DASH,DoorDash Inc,55.906B,56.59,143.34,Communication Services,Nasdaq 100
+ROP,Roper Technologies Inc,57.346B,430.03,565.00,Technology,Nasdaq 100
+ANSS,ANSYS Inc,29.176B,258.01,364.31,Technology,Nasdaq 100
+AAPL,Apple Inc,2.726T,162.80,199.62,Technology,Nasdaq 100
+AMAT,Applied Materials Inc,172.71B,109.00,214.91,Technology,Nasdaq 100
+GEHC,GE Healthcare Technologies Inc,39.372B,62.35,94.50,Healthcare,Nasdaq 100
+ASML,ASML Holding NV,385.304B,564.00,"1,056.34",Technology,Nasdaq 100
+TEAM,Atlassian Corp,53.575B,128.02,258.69,Technology,Nasdaq 100
+ADSK,Autodesk Inc,50.694B,188.38,279.53,Technology,Nasdaq 100

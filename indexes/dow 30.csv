@@ -1,0 +1,30 @@
+SYMBOL,NAME,Capitalization,High 52 Weeks,Low 52 Weeks,Sector,Index
+AMZN,Amazon.com Inc,1.936T,101.15,189.77,Consumer Cyclical,Dow 30
+AXP,American Express Co,157.113B,140.91,231.69,Financial Services,Dow 30
+AMGN,Amgen Inc,143.24B,211.71,329.72,Healthcare,Dow 30
+AAPL,Apple Inc,2.726T,162.80,199.62,Technology,Dow 30
+BA,Boeing Co,103.961B,169.37,267.54,Industrials,Dow 30
+CAT,Caterpillar Inc,182.587B,204.04,382.01,Industrials,Dow 30
+CSCO,Cisco Systems Inc,196.345B,45.56,58.19,Technology,Dow 30
+CVX,Chevron Corp,293.65B,139.62,172.54,Energy,Dow 30
+GS,Goldman Sachs Group Inc,126.4B,289.36,419.20,Financial Services,Dow 30
+HD,Home Depot Inc,339.795B,274.26,396.87,Consumer Cyclical,Dow 30
+HON,Honeywell International Inc,127.736B,174.88,210.87,Industrials,Dow 30
+IBM,International Business Machines Corp,167.095B,120.55,199.18,Technology,Dow 30
+INTC,Intel Corp,151.928B,26.86,51.28,Technology,Dow 30
+JNJ,Johnson & Johnson,355.491B,144.95,175.97,Healthcare,Dow 30
+KO,Coca-Cola Co,251.256B,51.55,64.99,Consumer Defensive,Dow 30
+JPM,JPMorgan Chase & Co,524.989B,131.81,200.94,Financial Services,Dow 30
+MCD,McDonald’s Corp,192.79B,245.73,302.39,Consumer Cyclical,Dow 30
+MMM,3M Co,50.527B,71.36,95.67,Industrials,Dow 30
+MRK,Merck & Co Inc,318.503B,99.14,133.10,Healthcare,Dow 30
+MSFT,Microsoft Corp,3.135T,275.37,430.82,Technology,Dow 30
+NKE,Nike Inc,138.861B,88.66,128.68,Consumer Cyclical,Dow 30
+PG,Procter & Gamble Co,365.495B,141.45,163.14,Consumer Defensive,Dow 30
+TRV,Travelers Companies Inc,50.649B,157.33,232.75,Financial Services,Dow 30
+UNH,UnitedHealth Group Inc,404.913B,436.38,554.70,Healthcare,Dow 30
+CRM,Salesforce Inc,285.49B,190.57,318.71,Technology,Dow 30
+VZ,Verizon Communications Inc,167.221B,30.14,43.42,Communication Services,Dow 30
+V,Visa Inc,566.841B,216.14,290.96,Financial Services,Dow 30
+WMT,Walmart Inc,484.611B,48.34,61.66,Consumer Defensive,Dow 30
+DIS,Walt Disney Co,209.129B,78.73,123.74,Communication Services,Dow 30

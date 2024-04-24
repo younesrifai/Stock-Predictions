@@ -1,0 +1,501 @@
+SYMBOL,NAME,SECTOR,Capitalization,High 52 Weeks,Low 52 Weeks,Index
+MMM,3M Co.,Industrials,50.527B,71.36,95.67,Nasdaq 100
+ACE,ACE Limited,Financials,,,,Nasdaq 100
+ABT,Abbott Laboratories,Health Care,189.325B,89.67,121.64,Nasdaq 100
+ANF,Abercrombie & Fitch Company A,Consumer Discretionary,5.706B,21.74,140.28,Nasdaq 100
+ACN,Accenture,Information Technology,198.301B,261.68,387.51,Nasdaq 100
+ADBE,Adobe Systems Inc,Information Technology,212.392B,331.89,638.25,Nasdaq 100
+AMD,Advanced Micro Devices,Information Technology,263.883B,81.02,227.30,Nasdaq 100
+AES,AES Corp,Utilities,11.977B,11.43,24.60,Nasdaq 100
+AET,Aetna Inc,Health Care,,,,Nasdaq 100
+AFL,AFLAC Inc,Financials,46.194B,64.10,86.26,Nasdaq 100
+A,Agilent Technologies Inc,Health Care,41.242B,96.80,151.58,Nasdaq 100
+GAS,AGL Resources Inc.,Utilities,,,,Nasdaq 100
+APD,Air Products & Chemicals Inc,Materials,51.469B,212.24,307.71,Nasdaq 100
+ARG,Airgas Inc,Materials,,,,Nasdaq 100
+AKAM,Akamai Technologies Inc,Information Technology,15.853B,76.85,129.17,Nasdaq 100
+AA,Alcoa Inc,Materials,6.32B,23.07,42.23,Nasdaq 100
+ALXN,Alexion Pharmaceuticals,Health Care,,,,Nasdaq 100
+ATI,Allegheny Technologies Inc,Materials,6.384B,34.10,52.48,Nasdaq 100
+AGN,Allergan Inc,Health Care,,,,Nasdaq 100
+ALL,Allstate Corp,Financials,43.998B,100.57,174.57,Nasdaq 100
+ANR,Alpha Natural Resources,Energy,,,,Nasdaq 100
+ALTR,Altera Corp,Information Technology,6.817B,57.59,92.92,Nasdaq 100
+MO,Altria Group Inc,Consumer Staples,70.509B,39.07,48.04,Nasdaq 100
+AMZN,Amazon.com Inc,Consumer Discretionary,1.936T,101.15,189.77,Nasdaq 100
+AEE,Ameren Corp,Utilities,19.125B,67.03,91.18,Nasdaq 100
+AEP,American Electric Power,Utilities,43.233B,69.38,94.73,Nasdaq 100
+AXP,American Express Co,Financials,157.113B,140.91,231.69,Nasdaq 100
+AIG,American Intl Group Inc,Financials,50.315B,48.95,78.95,Nasdaq 100
+AMT,American Tower Corp A,Financials,83.68B,154.58,219.10,Nasdaq 100
+AMP,Ameriprise Financial,Financials,,,,Nasdaq 100
+ABC,AmerisourceBergen Corp,Health Care,,,,Nasdaq 100
+AMGN,Amgen Inc,Health Care,143.24B,211.71,329.72,Nasdaq 100
+APH,Amphenol Corp A,Industrials,68.17B,72.00,119.59,Nasdaq 100
+APC,Anadarko Petroleum Corp,Energy,,,,Nasdaq 100
+ADI,Analog Devices Inc,Information Technology,95.348B,154.99,204.20,Nasdaq 100
+AON,Aon plc,Financials,61.076B,284.85,347.37,Nasdaq 100
+APA,Apache Corporation,Energy,12.529B,29.47,46.15,Nasdaq 100
+AIV,Apartment Investment & Mgmt,Financials,1.174B,5.63,8.93,Nasdaq 100
+APOL,Apollo Group Inc,Consumer Discretionary,,,,Nasdaq 100
+AAPL,Apple Inc.,Information Technology,2.726T,162.80,199.62,Nasdaq 100
+AMAT,Applied Materials Inc,Information Technology,172.71B,109.00,214.91,Nasdaq 100
+ADM,Archer-Daniels-Midland Co,Consumer Staples,30.593B,50.72,87.30,Nasdaq 100
+AIZ,Assurant Inc,Financials,9.067B,115.41,189.48,Nasdaq 100
+T,AT&T Inc,Telecommunications Services,116.999B,13.43,19.92,Nasdaq 100
+ADSK,Autodesk Inc,Information Technology,50.694B,188.38,279.53,Nasdaq 100
+ADP,Automatic Data Processing,Information Technology,100.171B,201.46,256.84,Nasdaq 100
+AN,AutoNation Inc,Consumer Discretionary,6.424B,123.81,182.08,Nasdaq 100
+AZO,AutoZone Inc,Consumer Discretionary,51.257B,"2,277.88","3,256.37",Nasdaq 100
+AVB,"AvalonBay Communities, Inc.",Financials,26.131B,160.45,198.66,Nasdaq 100
+AVY,Avery Dennison Corp,Industrials,17.008B,158.93,225.26,Nasdaq 100
+AVP,Avon Products,Consumer Staples,,,,Nasdaq 100
+BHI,Baker Hughes Inc,Energy,,,,Nasdaq 100
+BLL,Ball Corp,Materials,,,,Nasdaq 100
+BAC,Bank of America Corp,Financials,282.406B,24.96,38.35,Nasdaq 100
+BK,The Bank of New York Mellon Corp.,Financials,41.446B,39.65,58.28,Nasdaq 100
+BCR,Bard (C.R.) Inc.,Health Care,,,,Nasdaq 100
+BAX,Baxter International Inc.,Health Care,20.542B,31.01,50.21,Nasdaq 100
+BBT,BB&T Corporation,Financials,,,,Nasdaq 100
+BEAM,Beam Inc.,Consumer Discretionary,2.117B,16.95,49.50,Nasdaq 100
+BDX,Becton Dickinson,Health Care,67.941B,229.86,287.32,Nasdaq 100
+BBBY,Bed Bath & Beyond,Consumer Discretionary,,,,Nasdaq 100
+BMS,Bemis Company,Materials,,,,Nasdaq 100
+BRK.B,Berkshire Hathaway,Financials,,,,Nasdaq 100
+BBY,Best Buy Co. Inc.,Consumer Discretionary,16.8B,62.30,86.11,Nasdaq 100
+BIG,Big Lots Inc.,Consumer Discretionary,100.797M,3.4200,11.0600,Nasdaq 100
+BIIB,BIOGEN IDEC Inc.,Health Care,28.808B,197.78,319.76,Nasdaq 100
+BLK,BlackRock,Financials,113.563B,596.18,845.00,Nasdaq 100
+HRB,Block H&R,Consumer Discretionary,,,,Nasdaq 100
+BMC,BMC Software,Information Technology,,,,Nasdaq 100
+BA,Boeing Company,Industrials,103.961B,169.37,267.54,Nasdaq 100
+BWA,BorgWarner,Consumer Discretionary,,,,Nasdaq 100
+BXP,Boston Properties,Financials,9.516B,46.80,73.97,Nasdaq 100
+BSX,Boston Scientific,Health Care,100.056B,48.35,69.21,Nasdaq 100
+BMY,Bristol-Myers Squibb,Health Care,97.852B,47.58,70.94,Nasdaq 100
+BRCM,Broadcom Corporation,Information Technology,,,,Nasdaq 100
+BF.B,Brown-Forman Corporation,Consumer Staples,,,,Nasdaq 100
+CHRW,C. H. Robinson Worldwide,Industrials,8.155B,69.11,106.14,Nasdaq 100
+CA,"CA, Inc.",Information Technology,,,,Nasdaq 100
+CVC,Cablevision Systems Corp.,Consumer Discretionary,,,,Nasdaq 100
+COG,Cabot Oil & Gas,Energy,,,,Nasdaq 100
+CAM,Cameron International Corp.,Energy,,,,Nasdaq 100
+CPB,Campbell Soup,Consumer Staples,12.613B,37.94,55.52,Nasdaq 100
+COF,Capital One Financial,Financials,53.11B,83.93,149.28,Nasdaq 100
+CAH,Cardinal Health Inc.,Health Care,25.564B,77.56,116.04,Nasdaq 100
+CFN,Carefusion,Health Care,,,,Nasdaq 100
+KMX,Carmax Inc,Consumer Discretionary,11.255B,59.66,88.22,Nasdaq 100
+CCL,Carnival Corp.,Consumer Discretionary,18.812B,8.70,19.74,Nasdaq 100
+CAT,Caterpillar Inc.,Industrials,182.587B,204.04,382.01,Nasdaq 100
+CBG,CBRE Group,Financials,,,,Nasdaq 100
+CBS,CBS Corp.,Consumer Discretionary,,,,Nasdaq 100
+CELG,Celgene Corp.,Health Care,,,,Nasdaq 100
+CNP,CenterPoint Energy,Utilities,,,,Nasdaq 100
+CTL,CenturyLink Inc,Telecommunications Services,,,,Nasdaq 100
+CERN,Cerner,Health Care,,,,Nasdaq 100
+CF,CF Industries Holdings Inc,Materials,14.661B,60.08,87.90,Nasdaq 100
+SCHW,Charles Schwab,Financials,127.941B,45.65,72.97,Nasdaq 100
+CHK,Chesapeake Energy,Energy,11.587B,72.84,91.03,Nasdaq 100
+CVX,Chevron Corp.,Energy,293.65B,139.62,172.54,Nasdaq 100
+CMG,Chipotle Mexican Grill,Consumer Discretionary,81.101B,"1,738.66","3,023.98",Nasdaq 100
+CB,Chubb Corp.,Financials,99.795B,183.71,260.58,Nasdaq 100
+CI,CIGNA Corp.,Health Care,99.231B,240.50,365.71,Nasdaq 100
+CINF,Cincinnati Financial,Financials,,,,Nasdaq 100
+CTAS,Cintas Corporation,Industrials,67.819B,438.59,704.84,Nasdaq 100
+CSCO,Cisco Systems,Information Technology,196.345B,45.56,58.19,Nasdaq 100
+C,Citigroup Inc.,Financials,113.834B,38.17,63.90,Nasdaq 100
+CTXS,Citrix Systems,Information Technology,,,,Nasdaq 100
+CLF,Cliffs Natural Resources,Materials,10.289B,13.61,22.97,Nasdaq 100
+CLX,Clorox Co.,Consumer Staples,17.621B,114.69,178.21,Nasdaq 100
+CME,CME Group Inc.,Financials,75.426B,175.73,223.80,Nasdaq 100
+CMS,CMS Energy,Utilities,17.218B,49.87,63.76,Nasdaq 100
+COH,Coach Inc.,Consumer Discretionary,,,,Nasdaq 100
+KO,Coca Cola Co.,Consumer Staples,251.256B,51.55,64.99,Nasdaq 100
+CCE,Coca-Cola Enterprises,Consumer Staples,,,,Nasdaq 100
+CTSH,Cognizant Technology Solutions,Information Technology,34.481B,58.09,80.09,Nasdaq 100
+CL,Colgate-Palmolive,Consumer Staples,70.567B,67.62,90.37,Nasdaq 100
+CMCSA,Comcast Corp.,Consumer Discretionary,156.372B,36.39,47.46,Nasdaq 100
+CMA,Comerica Inc.,Financials,6.789B,28.40,57.39,Nasdaq 100
+CSC,Computer Sciences Corp.,Information Technology,,,,Nasdaq 100
+CAG,ConAgra Foods Inc.,Consumer Staples,14.012B,25.16,38.73,Nasdaq 100
+COP,ConocoPhillips,Energy,153.648B,95.70,135.18,Nasdaq 100
+CNX,CONSOL Energy Inc.,Energy,3.718B,14.36,24.82,Nasdaq 100
+ED,Consolidated Edison,Utilities,30.641B,80.46,100.92,Nasdaq 100
+STZ,Constellation Brands,Consumer Staples,47.943B,221.81,274.87,Nasdaq 100
+CBE,Cooper Industries,Industrials,,,,Nasdaq 100
+GLW,Corning Inc.,Industrials,26.935B,25.26,36.02,Nasdaq 100
+COST,Costco Co.,Consumer Staples,324.339B,476.75,787.08,Nasdaq 100
+CVH,Coventry Health Care Inc.,Health Care,,,,Nasdaq 100
+COV,Covidien plc,Health Care,,,,Nasdaq 100
+CCI,Crown Castle International Corp.,Telecommunications Services,42.022B,84.72,134.09,Nasdaq 100
+CSX,CSX Corp.,Industrials,69.181B,29.03,40.12,Nasdaq 100
+CMI,Cummins Inc.,Industrials,40.84B,203.18,304.25,Nasdaq 100
+CVS,CVS Caremark Corp.,Consumer Staples,86.519B,64.41,83.25,Nasdaq 100
+DHI,D. R. Horton,Consumer Discretionary,50.34B,97.92,165.75,Nasdaq 100
+DHR,Danaher Corp.,Industrials,177.694B,182.09,259.00,Nasdaq 100
+DRI,Darden Restaurants,Consumer Discretionary,18.268B,133.36,176.84,Nasdaq 100
+DVA,DaVita Inc.,Health Care,11.388B,71.51,141.54,Nasdaq 100
+DF,Dean Foods,Consumer Staples,,,,Nasdaq 100
+DE,Deere & Co.,Industrials,110.583B,345.55,450.00,Nasdaq 100
+DELL,Dell Inc.,Information Technology,84.056B,41.47,136.16,Nasdaq 100
+DNR,Denbury Resources Inc.,Energy,,,,Nasdaq 100
+XRAY,Dentsply International,Health Care,,,,Nasdaq 100
+DVN,Devon Energy Corp.,Energy,33.922B,40.47,56.19,Nasdaq 100
+DV,"DeVry, Inc.",Consumer Discretionary,5.557B,26.23,43.00,Nasdaq 100
+DO,Diamond Offshore Drilling,Energy,1.437B,10.44,17.32,Nasdaq 100
+DTV,DirecTV,Consumer Discretionary,,,,Nasdaq 100
+DFS,Discover Financial Services,Financials,30.296B,79.04,131.65,Nasdaq 100
+DISCA,Discovery Communications,Consumer Discretionary,,,,Nasdaq 100
+DLTR,Dollar Tree,Consumer Discretionary,27.289B,102.77,161.10,Nasdaq 100
+D,Dominion Resources,Utilities,40.967B,39.18,58.69,Nasdaq 100
+RRD,Donnelley (R.R.) & Sons,Industrials,,,,Nasdaq 100
+DOV,Dover Corp.,Industrials,23.637B,127.25,178.28,Nasdaq 100
+DOW,Dow Chemical,Materials,40.844B,47.26,60.69,Nasdaq 100
+DPS,Dr Pepper Snapple Group,Consumer Staples,,,,Nasdaq 100
+DTE,DTE Energy Co.,Utilities,21.986B,90.14,116.73,Nasdaq 100
+DD,Du Pont (E.I.),Materials,30.854B,61.14,78.74,Nasdaq 100
+DUK,Duke Energy,Utilities,73.212B,83.06,100.39,Nasdaq 100
+DNB,Dun & Bradstreet,Industrials,,,,Nasdaq 100
+ETFC,E-Trade,Financials,,,,Nasdaq 100
+EMN,Eastman Chemical,Materials,11.523B,68.89,102.71,Nasdaq 100
+ETN,Eaton Corp.,Industrials,127.366B,161.12,331.47,Nasdaq 100
+EBAY,eBay Inc.,Information Technology,26.579B,37.17,52.93,Nasdaq 100
+ECL,Ecolab Inc.,Materials,63.384B,156.72,231.86,Nasdaq 100
+EIX,Edison Int'l,Utilities,26.401B,58.82,74.92,Nasdaq 100
+EW,Edwards Lifesciences,Health Care,54.342B,60.57,96.12,Nasdaq 100
+EA,Electronic Arts,Information Technology,34.191B,117.47,144.53,Nasdaq 100
+EMC,EMC Corp.,Information Technology,,,,Nasdaq 100
+EMR,Emerson Electric,Industrials,64.402B,76.94,115.26,Nasdaq 100
+ESV,Ensco plc,Energy,,,,Nasdaq 100
+ETR,Entergy Corp.,Utilities,21.945B,87.10,109.85,Nasdaq 100
+EOG,EOG Resources,Energy,77.821B,106.32,139.67,Nasdaq 100
+EQT,EQT Corporation,Utilities,16.417B,30.84,45.23,Nasdaq 100
+EFX,Equifax Inc.,Financials,,,,Nasdaq 100
+EQR,Equity Residential,Financials,23.415B,52.57,69.45,Nasdaq 100
+EL,Estee Lauder Cos.,Consumer Staples,49.756B,102.22,260.46,Nasdaq 100
+EXC,Exelon Corp.,Utilities,36.47B,33.35,43.71,Nasdaq 100
+EXPE,Expedia Inc.,Consumer Discretionary,17.78B,87.94,160.05,Nasdaq 100
+EXPD,Expeditors Int'l,Industrials,16.693B,106.43,131.17,Nasdaq 100
+ESRX,Express Scripts,Health Care,,,,Nasdaq 100
+XOM,Exxon Mobil Corp.,Energy,476.456B,95.77,123.75,Nasdaq 100
+FFIV,F5 Networks,Information Technology,11.055B,127.05,199.49,Nasdaq 100
+FDO,Family Dollar Stores,Consumer Discretionary,,,,Nasdaq 100
+FAST,Fastenal Co,Industrials,40.334B,52.29,79.04,Nasdaq 100
+FII,Federated Investors Inc.,Financials,,,,Nasdaq 100
+FDX,FedEx Corporation,Industrials,65.9B,213.81,291.27,Nasdaq 100
+FIS,Fidelity National Information Services,Information Technology,40.9B,46.91,74.75,Nasdaq 100
+FITB,Fifth Third Bancorp,Financials,23.603B,22.46,37.41,Nasdaq 100
+FHN,First Horizon National,Financials,7.88B,8.99,18.99,Nasdaq 100
+FSLR,First Solar Inc,Industrials,19.532B,129.22,232.00,Nasdaq 100
+FE,FirstEnergy Corp,Utilities,21.53B,32.18,41.17,Nasdaq 100
+FISV,Fiserv Inc,Information Technology,,,,Nasdaq 100
+FLIR,FLIR Systems,Information Technology,,,,Nasdaq 100
+FLS,Flowserve Corporation,Industrials,,,,Nasdaq 100
+FLR,Fluor Corp.,Industrials,,,,Nasdaq 100
+FMC,FMC Corporation,Materials,7.083B,49.49,125.20,Nasdaq 100
+FTI,FMC Technologies Inc.,Energy,11.309B,12.64,27.26,Nasdaq 100
+F,Ford Motor,Consumer Discretionary,50.107B,9.63,15.42,Nasdaq 100
+FRX,Forest Laboratories,Health Care,,,,Nasdaq 100
+FOSL,"Fossil, Inc.",Consumer Discretionary,,,,Nasdaq 100
+BEN,Franklin Resources,Financials,13.38B,21.88,30.32,Nasdaq 100
+FCX,Freeport-McMoran Cp & Gld,Materials,70.96B,32.83,52.42,Nasdaq 100
+FTR,Frontier Communications,Telecommunications Services,,,,Nasdaq 100
+GME,GameStop Corp.,Consumer Discretionary,3.294B,10.73,27.65,Nasdaq 100
+GCI,Gannett Co.,Consumer Discretionary,354.177M,1.6200,3.6000,Nasdaq 100
+GPS,Gap (The),Consumer Discretionary,8.404B,7.22,28.59,Nasdaq 100
+GD,General Dynamics,Industrials,78.982B,202.35,296.50,Nasdaq 100
+GE,General Electric,Industrials,169.052B,76.20,158.44,Nasdaq 100
+GIS,General Mills,Consumer Staples,37.373B,60.33,90.89,Nasdaq 100
+GPC,Genuine Parts,Consumer Discretionary,20.269B,126.35,174.91,Nasdaq 100
+GNW,Genworth Financial Inc.,Financials,2.597B,4.51,6.93,Nasdaq 100
+GILD,Gilead Sciences,Health Care,84.881B,67.62,87.87,Nasdaq 100
+GS,Goldman Sachs Group,Financials,126.4B,289.36,419.20,Nasdaq 100
+GT,Goodyear Tire & Rubber,Consumer Discretionary,3.486B,10.12,16.51,Nasdaq 100
+GOOG,Google Inc.,Information Technology,1.969T,103.27,161.70,Nasdaq 100
+GWW,Grainger (W.W.) Inc.,Industrials,47.412B,641.95,"1,034.18",Nasdaq 100
+HAL,Halliburton Co.,Energy,35.164B,27.84,43.85,Nasdaq 100
+HOG,Harley-Davidson,Consumer Discretionary,5.342B,25.43,44.16,Nasdaq 100
+HAR,Harman Int'l Industries,Consumer Discretionary,,,,Nasdaq 100
+HRS,Harris Corporation,Information Technology,,,,Nasdaq 100
+HIG,Hartford Financial Svc.Gp.,Financials,29.07B,67.05,103.64,Nasdaq 100
+HAS,Hasbro Inc.,Consumer Discretionary,7.767B,42.66,73.58,Nasdaq 100
+HCP,HCP Inc.,Financials,,,,Nasdaq 100
+HCN,Health Care REIT,Financials,,,,Nasdaq 100
+HNZ,Heinz (H.J.),Consumer Staples,,,,Nasdaq 100
+HP,Helmerich & Payne,Energy,4.13B,30.41,46.55,Nasdaq 100
+HES,Hess Corporation,Energy,47.204B,124.27,167.75,Nasdaq 100
+HPQ,Hewlett-Packard,Information Technology,27.916B,25.22,33.90,Nasdaq 100
+HD,Home Depot,Consumer Discretionary,339.795B,274.26,396.87,Nasdaq 100
+HON,Honeywell Int'l Inc.,Industrials,127.736B,174.88,210.87,Nasdaq 100
+HRL,Hormel Foods Corp.,Consumer Staples,18.583B,28.51,41.73,Nasdaq 100
+HSP,Hospira Inc.,Health Care,,,,Nasdaq 100
+HST,Host Hotels & Resorts,Financials,14.273B,14.92,21.31,Nasdaq 100
+HCBK,Hudson City Bancorp,Financials,,,,Nasdaq 100
+HUM,Humana Inc.,Health Care,37.682B,299.23,541.21,Nasdaq 100
+HBAN,Huntington Bancshares,Financials,19.377B,9.13,14.07,Nasdaq 100
+ITW,Illinois Tool Works,Industrials,75.735B,217.06,271.15,Nasdaq 100
+IR,Ingersoll-Rand PLC,Industrials,37.084B,53.24,96.17,Nasdaq 100
+TEG,Integrys Energy Group Inc.,Utilities,,,,Nasdaq 100
+INTC,Intel Corp.,Information Technology,151.928B,26.86,51.28,Nasdaq 100
+ICE,IntercontinentalExchange Inc.,Financials,76.581B,103.81,140.43,Nasdaq 100
+IBM,International Bus. Machines,Information Technology,167.095B,120.55,199.18,Nasdaq 100
+IFF,International Flav/Frag,Materials,21.347B,62.11,97.49,Nasdaq 100
+IGT,International Game Technology,Consumer Discretionary,4.006B,19.96,33.99,Nasdaq 100
+IP,International Paper,Materials,12.852B,29.01,41.28,Nasdaq 100
+IPG,Interpublic Group,Consumer Discretionary,11.532B,27.20,40.95,Nasdaq 100
+INTU,Intuit Inc.,Information Technology,173.898B,400.22,671.01,Nasdaq 100
+ISRG,Intuitive Surgical Inc.,Health Care,136.392B,254.85,403.76,Nasdaq 100
+IVZ,Invesco Ltd.,Financials,6.897B,12.48,18.71,Nasdaq 100
+IRM,Iron Mountain Incorporated,Industrials,22.219B,52.05,82.19,Nasdaq 100
+JBL,Jabil Circuit,Information Technology,16.168B,75.48,156.94,Nasdaq 100
+JEC,Jacobs Engineering Group,Industrials,,,,Nasdaq 100
+JDSU,JDS Uniphase Corp.,Information Technology,,,,Nasdaq 100
+JNJ,Johnson & Johnson,Health Care,355.491B,144.95,175.97,Nasdaq 100
+JCI,Johnson Controls,Consumer Discretionary,44.495B,47.90,70.43,Nasdaq 100
+JOY,Joy Global Inc.,Industrials,,,,Nasdaq 100
+JPM,JPMorgan Chase & Co.,Financials,524.989B,131.81,200.94,Nasdaq 100
+JNPR,Juniper Networks,Information Technology,11.889B,24.87,38.04,Nasdaq 100
+K,Kellogg Co.,Consumer Staples,18.94B,47.63,67.89,Nasdaq 100
+KEY,KeyCorp,Financials,13.55B,8.54,15.86,Nasdaq 100
+KMB,Kimberly-Clark,Consumer Staples,41.74B,116.32,147.87,Nasdaq 100
+KIM,Kimco Realty,Financials,12.202B,16.34,22.84,Nasdaq 100
+KMI,Kinder Morgan,Energy,40.237B,15.89,18.72,Nasdaq 100
+KLAC,KLA-Tencor Corp.,Information Technology,92.065B,355.88,729.15,Nasdaq 100
+KSS,Kohl's Corp.,Consumer Discretionary,2.521B,17.68,29.65,Nasdaq 100
+KFT,Kraft Foods Inc-A,Consumer Staples,,,,Nasdaq 100
+KR,Kroger Co.,Consumer Staples,39.837B,42.10,58.34,Nasdaq 100
+LLL,L-3 Communications Holdings,Industrials,,,,Nasdaq 100
+LH,Laboratory Corp. of America Holding,Health Care,,,,Nasdaq 100
+LRCX,Lam Research,Information Technology,125.471B,482.74,"1,007.39",Nasdaq 100
+LM,Legg Mason,Financials,,,,Nasdaq 100
+LEG,Leggett & Platt,Consumer Discretionary,2.363B,17.59,33.50,Nasdaq 100
+LEN,Lennar Corp.,Consumer Discretionary,43.993B,102.90,172.59,Nasdaq 100
+LUK,Leucadia National Corp.,Financials,,,,Nasdaq 100
+LXK,Lexmark Int'l Inc,Information Technology,,,,Nasdaq 100
+LIFE,Life Technologies,Health Care,,,,Nasdaq 100
+LLY,Lilly (Eli) & Co.,Health Care,714.634B,367.35,800.78,Nasdaq 100
+LTD,Limited Brands Inc.,Consumer Discretionary,,,,Nasdaq 100
+LNC,Lincoln National,Financials,4.808B,18.50,32.43,Nasdaq 100
+LLTC,Linear Technology Corp.,Information Technology,,,,Nasdaq 100
+LMT,Lockheed Martin Corp.,Industrials,108.319B,393.77,508.10,Nasdaq 100
+L,Loews Corp.,Financials,,,,Nasdaq 100
+LO,Lorillard Inc.,Consumer Staples,,,,Nasdaq 100
+LOW,Lowe's Cos.,Consumer Discretionary,132.775B,181.85,262.49,Nasdaq 100
+LSI,LSI Corporation,Information Technology,,,,Nasdaq 100
+MTB,M&T Bank Corp.,Financials,22.421B,108.53,148.23,Nasdaq 100
+M,Macy's Inc.,Consumer Discretionary,5.293B,10.54,22.10,Nasdaq 100
+MRO,Marathon Oil Corp.,Energy,16.624B,21.63,30.06,Nasdaq 100
+MPC,Marathon Petroleum,Energy,75.227B,104.32,221.11,Nasdaq 100
+MAR,Marriott Int'l.,Consumer Discretionary,72.37B,162.78,260.57,Nasdaq 100
+MMC,Marsh & McLennan,Financials,97.754B,171.47,209.20,Nasdaq 100
+MAS,Masco Corp.,Industrials,16.223B,47.66,78.94,Nasdaq 100
+MA,Mastercard Inc.,Information Technology,434.149B,357.85,490.00,Nasdaq 100
+MAT,Mattel Inc.,Consumer Discretionary,6.34B,16.20,22.64,Nasdaq 100
+MKC,McCormick & Co.,Consumer Staples,19.265B,59.13,94.39,Nasdaq 100
+MCD,McDonald's Corp.,Consumer Discretionary,192.79B,245.73,302.39,Nasdaq 100
+MHP,McGraw-Hill,Consumer Discretionary,,,,Nasdaq 100
+MCK,McKesson Corp.,Health Care,68.728B,352.34,543.00,Nasdaq 100
+MJN,Mead Johnson,Consumer Staples,,,,Nasdaq 100
+MWV,MeadWestvaco Corporation,Materials,,,,Nasdaq 100
+MDT,Medtronic Inc.,Health Care,106.398B,68.84,92.02,Nasdaq 100
+MRK,Merck & Co.,Health Care,318.503B,99.14,133.10,Nasdaq 100
+MET,MetLife Inc.,Financials,50.713B,48.95,74.68,Nasdaq 100
+PCS,MetroPCS Communications Inc.,Telecommunications Services,,,,Nasdaq 100
+MCHP,Microchip Technology,Information Technology,46.279B,68.75,94.30,Nasdaq 100
+MU,Micron Technology,Information Technology,135.675B,58.03,130.54,Nasdaq 100
+MSFT,Microsoft Corp.,Information Technology,3.135T,275.37,430.82,Nasdaq 100
+MOLX,Molex Inc.,Information Technology,,,,Nasdaq 100
+TAP,Molson Coors Brewing Company,Consumer Staples,14.078B,55.67,70.90,Nasdaq 100
+MON,Monsanto Co.,Materials,,,,Nasdaq 100
+MNST,Monster Beverage,Consumer Staples,57.612B,47.13,61.23,Nasdaq 100
+MCO,Moody's Corp,Financials,68.855B,296.45,407.62,Nasdaq 100
+MS,Morgan Stanley,Financials,140.199B,69.42,95.57,Nasdaq 100
+MOS,The Mosaic Company,Materials,10.011B,29.25,47.58,Nasdaq 100
+MSI,Motorola Solutions Inc.,Information Technology,57.281B,269.65,355.39,Nasdaq 100
+MUR,Murphy Oil,Energy,,,,Nasdaq 100
+MYL,Mylan Inc.,Health Care,,,,Nasdaq 100
+NBR,Nabors Industries Ltd.,Energy,751.986M,71.42,141.47,Nasdaq 100
+NDAQ,NASDAQ OMX Group,Financials,35.421B,46.88,64.25,Nasdaq 100
+NOV,National Oilwell Varco Inc.,Energy,7.763B,14.05,21.91,Nasdaq 100
+NTAP,NetApp,Information Technology,21.011B,60.92,112.48,Nasdaq 100
+NFLX,NetFlix Inc.,Information Technology,269.536B,315.62,639.00,Nasdaq 100
+NWL,Newell Rubbermaid Co.,Consumer Discretionary,2.956B,6.50,12.74,Nasdaq 100
+NFX,Newfield Exploration Co,Energy,,,,Nasdaq 100
+NEM,Newmont Mining Corp. (Hldg. Co.),Materials,44.544B,29.42,50.18,Nasdaq 100
+NWSA,News Corporation,Consumer Discretionary,,,,Nasdaq 100
+NEE,NextEra Energy Resources,Utilities,129.597B,47.15,79.78,Nasdaq 100
+NKE,NIKE Inc.,Consumer Discretionary,138.861B,88.66,128.68,Nasdaq 100
+NI,NiSource Inc.,Utilities,,,,Nasdaq 100
+NE,Noble Corp,Energy,,,,Nasdaq 100
+NBL,Noble Energy Inc,Energy,,,,Nasdaq 100
+JWN,Nordstrom,Consumer Discretionary,3.112B,12.88,23.53,Nasdaq 100
+NSC,Norfolk Southern Corp.,Industrials,55.511B,183.09,263.66,Nasdaq 100
+NTRS,Northern Trust Corp.,Financials,17.103B,62.44,89.25,Nasdaq 100
+NOC,Northrop Grumman Corp.,Industrials,67.568B,414.56,496.89,Nasdaq 100
+NU,Northeast Utilities,Utilities,53.807B,4.51,12.39,Nasdaq 100
+NRG,NRG Energy,Utilities,15.875B,30.52,76.11,Nasdaq 100
+NUE,Nucor Corp.,Materials,46.683B,129.79,203.00,Nasdaq 100
+NVDA,Nvidia Corporation,Information Technology,2.205T,262.25,974.00,Nasdaq 100
+NYX,NYSE Euronext,Financials,,,,Nasdaq 100
+ORLY,O'Reilly Automotive,Consumer Discretionary,63.542B,860.10,"1,169.11",Nasdaq 100
+OXY,Occidental Petroleum,Energy,61.175B,55.12,71.19,Nasdaq 100
+OMC,Omnicom Group,Consumer Discretionary,17.864B,72.20,99.23,Nasdaq 100
+OKE,ONEOK,Utilities,45.932B,55.91,80.81,Nasdaq 100
+ORCL,Oracle Corp.,Information Technology,332.872B,93.29,132.77,Nasdaq 100
+OI,Owens-Illinois Inc,Materials,,,,Nasdaq 100
+PCAR,PACCAR Inc.,Industrials,61.917B,68.40,125.50,Nasdaq 100
+PLL,Pall Corp.,Industrials,245.496M,11.27,65.72,Nasdaq 100
+PH,Parker-Hannifin,Industrials,70.667B,309.89,570.15,Nasdaq 100
+PDCO,Patterson Companies,Health Care,2.281B,25.00,34.53,Nasdaq 100
+PAYX,Paychex Inc.,Information Technology,44.275B,104.09,129.70,Nasdaq 100
+BTU,Peabody Energy,Energy,2.939B,17.71,27.70,Nasdaq 100
+JCP,Penney (J.C.),Consumer Discretionary,,,,Nasdaq 100
+PBCT,People's United Bank,Financials,,,,Nasdaq 100
+POM,Pepco Holdings Inc.,Utilities,,,,Nasdaq 100
+PEP,PepsiCo Inc.,Consumer Staples,231.055B,155.83,196.88,Nasdaq 100
+PKI,PerkinElmer,Health Care,,,,Nasdaq 100
+PRGO,Perrigo,Health Care,,,,Nasdaq 100
+PFE,Pfizer Inc.,Health Care,146.433B,25.61,41.33,Nasdaq 100
+PCG,PG&E Corp.,Utilities,35.475B,14.71,18.32,Nasdaq 100
+PM,Philip Morris International,Consumer Staples,138.122B,87.23,101.92,Nasdaq 100
+PSX,Phillips 66,Energy,69.022B,89.74,174.08,Nasdaq 100
+PNW,Pinnacle West Capital,Utilities,8.203B,65.20,86.03,Nasdaq 100
+PXD,Pioneer Natural Resources,Energy,63.265B,196.75,278.83,Nasdaq 100
+PBI,Pitney-Bowes,Industrials,718.473M,2.8000,4.5800,Nasdaq 100
+PCL,Plum Creek Timber Co.,Financials,,,,Nasdaq 100
+PNC,PNC Financial Services,Financials,59.927B,109.40,162.24,Nasdaq 100
+RL,Polo Ralph Lauren Corp.,Consumer Discretionary,10.247B,103.17,192.03,Nasdaq 100
+PPG,PPG Industries,Materials,31.64B,120.33,152.89,Nasdaq 100
+PPL,PPL Corp.,Utilities,19.646B,22.20,29.04,Nasdaq 100
+PX,Praxair Inc.,Materials,,,,Nasdaq 100
+PCP,Precision Castparts,Industrials,,,,Nasdaq 100
+PCLN,Priceline.com Inc,Industrials,,,,Nasdaq 100
+PFG,Principal Financial Group,Financials,18.77B,65.17,86.79,Nasdaq 100
+PG,Procter & Gamble,Consumer Staples,365.495B,141.45,163.14,Nasdaq 100
+PGR,Progressive Corp.,Financials,119.424B,111.41,212.24,Nasdaq 100
+PLD,ProLogis,Financials,110.081B,96.64,137.52,Nasdaq 100
+PRU,Prudential Financial,Financials,39.42B,77.22,118.69,Nasdaq 100
+PEG,Public Serv. Enterprise Inc.,Utilities,32.842B,53.71,67.51,Nasdaq 100
+PSA,Public Storage,Financials,47.948B,233.18,312.25,Nasdaq 100
+PHM,Pulte Homes Inc.,Consumer Discretionary,23.396B,59.95,121.08,Nasdaq 100
+QEP,QEP Resources,Utilities,,,,Nasdaq 100
+PWR,Quanta Services Inc.,Industrials,37.283B,153.74,265.82,Nasdaq 100
+QCOM,QUALCOMM Inc.,Information Technology,191.16B,101.47,177.59,Nasdaq 100
+DGX,Quest Diagnostics,Health Care,,,,Nasdaq 100
+RRC,Range Resources Corp.,Energy,8.736B,23.92,37.88,Nasdaq 100
+RTN,Raytheon Co.,Industrials,,,,Nasdaq 100
+RHT,Red Hat Inc.,Information Technology,,,,Nasdaq 100
+RF,Regions Financial Corp.,Financials,17.639B,13.72,21.08,Nasdaq 100
+RSG,Republic Services Inc,Industrials,59.159B,135.33,192.57,Nasdaq 100
+RAI,Reynolds American Inc.,Consumer Staples,,,,Nasdaq 100
+RHI,Robert Half International,Industrials,7.582B,64.65,88.39,Nasdaq 100
+ROK,Rockwell Automation Inc.,Industrials,32.638B,252.11,348.52,Nasdaq 100
+COL,Rockwell Collins,Industrials,,,,Nasdaq 100
+ROP,Roper Industries,Industrials,57.346B,430.03,565.00,Nasdaq 100
+ROST,Ross Stores Inc.,Consumer Discretionary,45.598B,99.00,151.12,Nasdaq 100
+RDC,Rowan Cos.,Energy,,,,Nasdaq 100
+R,Ryder System,Industrials,,,,Nasdaq 100
+SWY,Safeway Inc.,Consumer Staples,,,,Nasdaq 100
+SAI,SAIC,Information Technology,,,,Nasdaq 100
+CRM,Salesforce.com,Information Technology,285.49B,190.57,318.71,Nasdaq 100
+SNDK,SanDisk Corporation,Information Technology,,,,Nasdaq 100
+SCG,SCANA Corp,Utilities,,,,Nasdaq 100
+SLB,Schlumberger Ltd.,Energy,74.326B,42.73,62.12,Nasdaq 100
+SNI,Scripps Networks Interactive Inc.,Consumer Discretionary,,,,Nasdaq 100
+STX,Seagate Technology,Information Technology,17.848B,54.32,101.26,Nasdaq 100
+SEE,Sealed Air Corp.(New),Materials,,,,Nasdaq 100
+SHLD,Sears Holdings Corporation,Consumer Discretionary,39.02M,23.70,33.58,Nasdaq 100
+SRE,Sempra Energy,Utilities,43.452B,63.75,79.51,Nasdaq 100
+SHW,Sherwin-Williams,Consumer Discretionary,80.866B,221.76,348.37,Nasdaq 100
+SIAL,Sigma-Aldrich,Materials,,,,Nasdaq 100
+SPG,Simon Property Group Inc,Financials,54.248B,100.17,157.82,Nasdaq 100
+SLM,SLM Corporation,Financials,,,,Nasdaq 100
+SJM,Smucker (J.M.),Consumer Staples,11.638B,107.33,159.92,Nasdaq 100
+SNA,Snap-On Inc.,Consumer Discretionary,15.301B,238.90,298.49,Nasdaq 100
+SO,Southern Co.,Utilities,74.986B,61.56,75.80,Nasdaq 100
+LUV,Southwest Airlines,Industrials,16.476B,21.91,39.53,Nasdaq 100
+SWN,Southwestern Energy,Energy,8.173B,4.57,7.69,Nasdaq 100
+SE,Spectra Energy Corp.,Energy,30.303B,34.35,88.39,Nasdaq 100
+S,Sprint Nextel Corp.,Telecommunications Services,6.733B,12.43,30.76,Nasdaq 100
+STJ,St Jude Medical,Health Care,,,,Nasdaq 100
+SWK,Stanley Black & Decker,Consumer Discretionary,14.07B,73.87,104.21,Nasdaq 100
+SPLS,Staples Inc.,Consumer Discretionary,,,,Nasdaq 100
+SBUX,Starbucks Corp.,Consumer Discretionary,96.148B,84.29,115.48,Nasdaq 100
+HOT,Starwood Hotels & Resorts,Consumer Discretionary,,,,Nasdaq 100
+STT,State Street Corp.,Financials,22.848B,62.78,79.90,Nasdaq 100
+SRCL,Stericycle Inc,Industrials,4.57B,37.78,57.06,Nasdaq 100
+SYK,Stryker Corp.,Health Care,130.14B,249.98,361.41,Nasdaq 100
+SUN,Sunoco Inc.,Energy,4.504B,41.95,64.89,Nasdaq 100
+STI,SunTrust Banks,Financials,,,,Nasdaq 100
+SYMC,Symantec Corp.,Information Technology,,,,Nasdaq 100
+SYY,Sysco Corp.,Consumer Staples,37.462B,62.24,82.89,Nasdaq 100
+TROW,T. Rowe Price Group,Financials,25.762B,87.43,132.76,Nasdaq 100
+TGT,Target Corp.,Consumer Discretionary,76.696B,102.93,181.86,Nasdaq 100
+TEL,TE Connectivity Ltd.,Information Technology,44.152B,115.00,147.98,Nasdaq 100
+TE,TECO Energy,Utilities,,,,Nasdaq 100
+THC,Tenet Healthcare Corp.,Health Care,,,,Nasdaq 100
+TDC,Teradata Corp.,Information Technology,,,,Nasdaq 100
+TER,Teradyne Inc.,Information Technology,16.391B,81.08,119.20,Nasdaq 100
+TSO,Tesoro Petroleum Co.,Energy,,,,Nasdaq 100
+TXN,Texas Instruments,Information Technology,151.37B,139.48,188.12,Nasdaq 100
+TXT,Textron Inc.,Industrials,18.077B,61.27,97.34,Nasdaq 100
+HSY,The Hershey Company,Consumer Staples,37.943B,178.82,276.88,Nasdaq 100
+TRV,The Travelers Companies Inc.,Financials,50.649B,157.33,232.75,Nasdaq 100
+TMO,Thermo Fisher Scientific,Health Care,215.756B,415.60,603.82,Nasdaq 100
+TIF,Tiffany & Co.,Consumer Discretionary,,,,Nasdaq 100
+TWX,Time Warner Inc.,Consumer Discretionary,,,,Nasdaq 100
+TWC,Time Warner Cable Inc.,Consumer Discretionary,,,,Nasdaq 100
+TIE,Titanium Metals Corp,Materials,,,,Nasdaq 100
+TJX,TJX Companies Inc.,Consumer Discretionary,106.975B,75.65,102.84,Nasdaq 100
+TMK,Torchmark Corp.,Financials,,,,Nasdaq 100
+TSS,Total System Services,Information Technology,,,,Nasdaq 100
+TRIP,TripAdvisor,Consumer Discretionary,,,,Nasdaq 100
+TSN,Tyson Foods,Consumer Staples,20.628B,44.94,63.28,Nasdaq 100
+TYC,Tyco International,Industrials,,,,Nasdaq 100
+USB,U.S. Bancorp,Financials,64.795B,27.27,45.85,Nasdaq 100
+UNP,Union Pacific,Industrials,143.006B,190.37,258.66,Nasdaq 100
+UNH,United Health Group Inc.,Health Care,404.913B,436.38,554.70,Nasdaq 100
+UPS,United Parcel Service,Industrials,123.628B,133.68,197.80,Nasdaq 100
+X,United States Steel Corp.,Materials,9.292B,20.40,50.20,Nasdaq 100
+UTX,United Technologies,Industrials,,,,Nasdaq 100
+UNM,Unum Group,Financials,9.654B,39.71,54.57,Nasdaq 100
+URBN,Urban Outfitters,Consumer Discretionary,3.604B,25.52,47.29,Nasdaq 100
+VFC,V.F. Corp.,Consumer Discretionary,4.709B,12.02,23.55,Nasdaq 100
+VLO,Valero Energy,Energy,57.173B,104.18,184.79,Nasdaq 100
+VAR,Varian Medical Systems,Health Care,,,,Nasdaq 100
+VTR,Ventas Inc,Financials,17.305B,39.33,50.99,Nasdaq 100
+VRSN,Verisign Inc.,Information Technology,,,,Nasdaq 100
+VZ,Verizon Communications,Telecommunications Services,167.221B,30.14,43.42,Nasdaq 100
+VIAB,Viacom Inc.,Consumer Discretionary,,,,Nasdaq 100
+V,Visa Inc.,Information Technology,566.841B,216.14,290.96,Nasdaq 100
+VNO,Vornado Realty Trust,Financials,5.687B,12.31,32.21,Nasdaq 100
+VMC,Vulcan Materials,Materials,34.758B,166.44,276.58,Nasdaq 100
+WMT,Wal-Mart Stores,Consumer Staples,484.611B,48.34,61.66,Nasdaq 100
+WAG,Walgreen Co.,Consumer Staples,,,,Nasdaq 100
+DIS,Walt Disney Co.,Consumer Discretionary,209.129B,78.73,123.74,Nasdaq 100
+WPO,Washington Post Co B,Consumer Discretionary,,,,Nasdaq 100
+WM,Waste Management Inc.,Industrials,82.414B,149.71,214.54,Nasdaq 100
+WAT,Waters Corporation,Health Care,19.137B,231.90,363.80,Nasdaq 100
+WPI,Watson Pharmaceuticals,Health Care,,,,Nasdaq 100
+WLP,WellPoint Inc.,Health Care,,,,Nasdaq 100
+WFC,Wells Fargo,Financials,197.74B,36.40,58.44,Nasdaq 100
+WDC,Western Digital,Information Technology,23.524B,31.97,76.92,Nasdaq 100
+WU,Western Union Co,Information Technology,,,,Nasdaq 100
+WY,Weyerhaeuser Corp.,Financials,24.252B,28.12,36.27,Nasdaq 100
+WHR,Whirlpool Corp.,Consumer Discretionary,5.885B,98.40,160.62,Nasdaq 100
+WFM,Whole Foods Market,Consumer Staples,,,,Nasdaq 100
+WMB,Williams Cos.,Energy,46.397B,28.27,39.76,Nasdaq 100
+WIN,Windstream Corporation,Telecommunications Services,,,,Nasdaq 100
+WEC,Wisconsin Energy Corporation,Utilities,24.94B,75.13,98.80,Nasdaq 100
+WPX,"WPX Energy, Inc.",Energy,,,,Nasdaq 100
+WYN,Wyndham Worldwide,Consumer Discretionary,,,,Nasdaq 100
+WYNN,Wynn Resorts Ltd,Consumer Discretionary,11.339B,81.65,117.86,Nasdaq 100
+XEL,Xcel Energy Inc,Utilities,29.534B,46.79,71.32,Nasdaq 100
+XRX,Xerox Corp.,Information Technology,2.093B,12.06,19.78,Nasdaq 100
+XLNX,Xilinx Inc,Information Technology,,,,Nasdaq 100
+XL,XL Capital,Financials,,,,Nasdaq 100
+XYL,Xylem Inc.,Industrials,31.054B,87.59,130.86,Nasdaq 100
+YHOO,Yahoo Inc.,Information Technology,,,,Nasdaq 100
+YUM,Yum! Brands Inc,Consumer Discretionary,38.791B,115.53,143.25,Nasdaq 100
+ZMH,Zimmer Holdings,Health Care,,,,Nasdaq 100
+ZION,Zions Bancorp,Financials,6.003B,18.26,46.15,Nasdaq 100
