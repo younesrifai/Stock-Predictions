@@ -1,12 +1,12 @@
-This project's goal is to apply machine learning models to try to predict stock movements. I will be testing it out with different variable combinations. Currently still a work in progress, will be pushing out updates at each milestone __
+This project's goal is to apply machine learning models to try to predict stock movements. I will be testing it out with different variable combinations. Currently still a work in progress, will be pushing out updates at each milestone </br>
 
-Done: __
-Scraped Yahoo Finance Data for data enrichment. __
-Gathered past 2-5 years of financial data for a number of stocks in each of the 3 indexes (S&P 500, Dow 30, Nasdaq 100) __
+Done: </br>
+Scraped Yahoo Finance Data for data enrichment. </br>
+Gathered past 2-5 years of financial data for a number of stocks in each of the 3 indexes (S&P 500, Dow 30, Nasdaq 100) </br>
 
-Work in Progress: __
-Convert non-numerical data to numericals __
-Build ML Model __
+Work in Progress: </br>
+Convert non-numerical data to numericals </br>
+Build ML Model </br>
 
-Future improvements: __
-Add a feature to use scraper in Yahoo Finance + NLP to give a score per stock based on news articles __
+Future improvements: </br>
+Add a feature to use scraper in Yahoo Finance + NLP to give a score per stock based on news articles </br>
