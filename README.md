@@ -9,4 +9,4 @@ Convert non-numerical data to numericals </br>
 Build ML Model </br>
 
 Future improvements: </br>
-Add a feature to use scraper in Yahoo Finance + NLP to give a score per stock based on news articles </br>
+Add a feature to use scraper in Yahoo Finance + LLM model to give a score per stock based on news articles </br>
